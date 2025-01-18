@@ -47,7 +47,7 @@
 
 ### [3.硬件框架]
 
-![Image text](https://github.com/lhxj/Intelligent-watering-system-based-on-RT-Thread/blob/ywx/4.%E5%9B%BE%E7%89%87/%E7%A1%AC%E4%BB%B6%E5%AE%9E%E7%89%A9%E5%9B%BE.jpg)
+![Image text]()
 
 ### [4.软件框架]
 
@@ -100,7 +100,7 @@
 
 #### 实物图：
 
-![硬件实物图.jpg]([../Intelligent-watering-system-based-on-RT-Thread/4.图片/硬件实物图.jpg](https://github.com/lhxj/Intelligent-watering-system-based-on-RT-Thread/blob/ywx/4.%E5%9B%BE%E7%89%87/%E8%BD%AF%E7%A1%AC%E4%BB%B6%E6%A1%86%E6%9E%B6%E5%9B%BE.png))
+![硬件实物图.jpg](https://github.com/lhxj/Intelligent-watering-system-based-on-RT-Thread/blob/ywx/4.%E5%9B%BE%E7%89%87/%E8%BD%AF%E7%A1%AC%E4%BB%B6%E6%A1%86%E6%9E%B6%E5%9B%BE.png)
 
 ### [视频演示-bilibili链接]
 
