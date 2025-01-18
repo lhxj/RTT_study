@@ -51,7 +51,7 @@
 
 ### [4.软件框架]
 
-![软硬件框架图.png](../Intelligent-watering-system-based-on-RT-Thread/4.图片/软硬件框架图.png)
+![软硬件框架图.png](https://github.com/lhxj/Intelligent-watering-system-based-on-RT-Thread/blob/ywx/4.%E5%9B%BE%E7%89%87/%E7%A1%AC%E4%BB%B6%E6%A1%86%E6%9E%B6.png)
 
 ### [5.RT-Thread使用情况概述]
 
@@ -76,7 +76,7 @@
 
 ### [6.软件流程图]
 
-![Image text](../Intelligent-watering-system-based-on-RT-Thread/4.图片/软件框架说明.png)
+![Image text](https://github.com/lhxj/Intelligent-watering-system-based-on-RT-Thread/blob/ywx/4.%E5%9B%BE%E7%89%87/%E8%BD%AF%E4%BB%B6%E6%A1%86%E6%9E%B6%E8%AF%B4%E6%98%8E.png)
 
 ### [7.硬件接线说明与实物图]
 
@@ -100,7 +100,7 @@
 
 #### 实物图：
 
-![硬件实物图.jpg](../Intelligent-watering-system-based-on-RT-Thread/4.图片/硬件实物图.jpg)
+![硬件实物图.jpg]([../Intelligent-watering-system-based-on-RT-Thread/4.图片/硬件实物图.jpg](https://github.com/lhxj/Intelligent-watering-system-based-on-RT-Thread/blob/ywx/4.%E5%9B%BE%E7%89%87/%E8%BD%AF%E7%A1%AC%E4%BB%B6%E6%A1%86%E6%9E%B6%E5%9B%BE.png))
 
 ### [视频演示-bilibili链接]
 
