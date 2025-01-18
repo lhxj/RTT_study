@@ -45,13 +45,13 @@
     当温度超过阈值时，会开启风扇降温通风（LED3）
     当湿度低于阈值时，会开启水泵给盆栽浇水（LED2）
 
-### [3.硬件框架]
+### [3.硬件]
 
-![Image text]()
+![Image text](https://github.com/lhxj/Intelligent-watering-system-based-on-RT-Thread/blob/ywx/4.%E5%9B%BE%E7%89%87/%E7%A1%AC%E4%BB%B6%E6%A1%86%E6%9E%B6.png)
 
-### [4.软件框架]
+### [4.分层]
 
-![软硬件框架图.png](https://github.com/lhxj/Intelligent-watering-system-based-on-RT-Thread/blob/ywx/4.%E5%9B%BE%E7%89%87/%E7%A1%AC%E4%BB%B6%E6%A1%86%E6%9E%B6.png)
+![软硬件框架图.png](https://github.com/lhxj/Intelligent-watering-system-based-on-RT-Thread/blob/ywx/4.%E5%9B%BE%E7%89%87/%E8%BD%AF%E7%A1%AC%E4%BB%B6%E6%A1%86%E6%9E%B6%E5%9B%BE.png)
 
 ### [5.RT-Thread使用情况概述]
 
@@ -74,7 +74,7 @@
   > (3) Sensor设备驱动框架
   > (4) ADC设备驱动框架
 
-### [6.软件流程图]
+### [6.主要函数]
 
 ![Image text](https://github.com/lhxj/Intelligent-watering-system-based-on-RT-Thread/blob/ywx/4.%E5%9B%BE%E7%89%87/%E8%BD%AF%E4%BB%B6%E6%A1%86%E6%9E%B6%E8%AF%B4%E6%98%8E.png)
 
@@ -100,7 +100,7 @@
 
 #### 实物图：
 
-![硬件实物图.jpg](https://github.com/lhxj/Intelligent-watering-system-based-on-RT-Thread/blob/ywx/4.%E5%9B%BE%E7%89%87/%E8%BD%AF%E7%A1%AC%E4%BB%B6%E6%A1%86%E6%9E%B6%E5%9B%BE.png)
+![硬件实物图.jpg](https://github.com/lhxj/Intelligent-watering-system-based-on-RT-Thread/blob/ywx/4.%E5%9B%BE%E7%89%87/%E7%A1%AC%E4%BB%B6%E5%AE%9E%E7%89%A9%E5%9B%BE.jpg)
 
 ### [视频演示-bilibili链接]
 
